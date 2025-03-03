@@ -70,7 +70,7 @@ export const ProjectList: ProjectType[] = [
       "MockerView is a powerful AI based Interview Prep platform, where user's get feedback on their answers as well as presentation.",
     imgUrl:
       "https://res.cloudinary.com/dwi27ks8b/image/upload/v1740989121/Screenshot_2025-03-03_at_12.04.51_AM_en3nt3.png",
-    videoUrl: "https://res.cloudinary.com/dwi27ks8b/video/upload/v1740988885/Screen_Recording_2025-03-02_at_11.59.21_PM_kec2v9.mov",
+    videoUrl: "https://res.cloudinary.com/dwi27ks8b/video/upload/v1740995744/Demo_MView_fdwre8.mov",
     githubUrl: "https://github.com/divikshrivastava/mockerview",
     websiteUrl: "https://www.mockerview.io",
   },
