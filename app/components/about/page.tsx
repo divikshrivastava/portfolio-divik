@@ -144,7 +144,7 @@ export default function About() {
   {/* Background Image with initial blur and clear on hover */}
   <div className="absolute inset-0">
     <img 
-      src="/Divik.png" 
+      src="https://res.cloudinary.com/dwi27ks8b/image/upload/v1740993123/IMG_8022_2_lizml3.png" 
       alt="Divik" 
       className="w-full h-full object-cover blur-lg transition-all duration-300 group-hover:blur-0"
     />
