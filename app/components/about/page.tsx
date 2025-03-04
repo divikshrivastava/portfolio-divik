@@ -151,7 +151,7 @@ export default function About() {
   </div>
   {/* Button positioned at bottom */}
   <div className="relative z-10 mt-auto w-full">
-    <a href="/Divik_Resume.pdf" download="Divik_Resume.pdf" className="w-full">
+    <a href="https://res.cloudinary.com/dwi27ks8b/image/upload/v1741063258/Resume_Divik_bm7chv.pdf" download="Divik_Resume.pdf" className="w-full">
       <button className="w-full duration-300 hover:bg-sky-900 border hover:text-gray-50 bg-gray-50 font-semibold text-sky-800 px-3 py-2 flex items-center justify-center gap-3 rounded-full">
         Download CV
         <svg xmlns="http://www.w3.org/2000/svg" x="0" width="100" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet" height="100" className="w-6 h-6 fill-current">
