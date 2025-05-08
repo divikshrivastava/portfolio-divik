@@ -280,6 +280,16 @@ export default function About() {
   </div>
   <div className="text-xs mt-2">
     <ul className="list-disc max-h-24 overflow-y-scroll" style={{ scrollbarGutter: "stable" }}>
+      <li>
+        <a
+          href="https://medium.com/@divikshrivastava/pathsure-a-safer-navigation-app-that-analyses-acts-and-protects-d4b69fde0a80"
+          className="text-blue-500 hover:underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          • 22 Apr, Won Cisco Spartup Hackathon!🏆
+        </a>
+      </li>
     <li>
         <a
           href="https://www.sjsu.edu/svic/winners/2024-winners.php"
